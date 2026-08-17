@@ -4,7 +4,6 @@ Starter repository for Project A (`canscan`) from the Guiding Rust course.
 
 - [Student course book](https://petelevasseur.com/guiding-rust/)
 - [Training resources](https://petelevasseur.com/training/)
-- Workshop snapshot: `workshop-2026-08-19`
 
 Use this repository as a GitHub template for your pair, or clone it directly.
 The root CI is intentionally red at first because there is no root crate.
