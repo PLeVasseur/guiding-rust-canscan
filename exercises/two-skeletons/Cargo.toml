@@ -1,0 +1,7 @@
+[package]
+name = "two-skeletons"
+version = "0.1.0"
+edition = "2021"
+description = "Pre-generated results for the One Task, Two Skeletons exercise."
+
+[dependencies]

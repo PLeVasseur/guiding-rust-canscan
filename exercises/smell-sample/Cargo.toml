@@ -1,0 +1,7 @@
+[package]
+name = "telemetry-hub"
+version = "0.1.0"
+edition = "2021"
+description = "Sample module for the Day 1 smell exercise."
+
+[dependencies]
